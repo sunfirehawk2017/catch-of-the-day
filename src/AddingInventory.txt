@@ -1,0 +1,14 @@
+Modify sample-fishes.js
+-Add inventory property
+
+Modify EditFishForm.js
+-Add input for inventory
+
+Modify App.js
+-update availability in updateFish
+-update availability in addToOrder
+-update availability in removeFromOrder
+
+Modify Order.js
+-update renderOrder
+-update render
